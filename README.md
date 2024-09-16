@@ -41,4 +41,4 @@ If you encounter any issues or have questions about this project, you can:
 
 ## References
 ### Sample API
-- Thank you to [Dr Michael Scriney](https://www.dcu.ie/computing/people/michael-scriney) for providing the API
+- Thank you to [Dr Michael Scriney](https://www.dcu.ie/computing/people/michael-scriney) for providing the API.
