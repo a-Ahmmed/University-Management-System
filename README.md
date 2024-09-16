@@ -26,6 +26,7 @@ Full Stack Application for viewing & managing Student and Module details made wi
    npm install
 3. Host sample API locally (http://127.0.0.1:8000)
    ```bash
+   cd universityrestapi
    python manage.py runserver
 4. Host the application locally
    ```bash
