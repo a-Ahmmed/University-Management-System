@@ -17,7 +17,7 @@ Full Stack Application for viewing & managing Student and Module details made wi
    git clone https://github.com/a-Ahmmed/University-Management-System.git
 
    cd University-Management-System
-2. Install the required Python Libraries and Node Packages
+2. Install the required dependencies
    ```bash
    cd universityrestapi
    pip install -r requirements.txt
