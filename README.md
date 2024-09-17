@@ -17,18 +17,18 @@ Full Stack Application for viewing & managing Student and Module details made wi
    git clone https://github.com/a-Ahmmed/University-Management-System.git
 
    cd University-Management-System
-2. Install the required dependencies
+2. Install the required dependencies:
    ```bash
    cd universityrestapi
    pip install -r requirements.txt
 
    cd ..
    npm install
-3. Host sample API locally (http://127.0.0.1:8000)
+3. Host sample API locally (http://127.0.0.1:8000):
    ```bash
    cd universityrestapi
    python manage.py runserver
-4. Host the application locally
+4. Host the application locally:
    ```bash
    npm start
 ## Where You Can Get Help
